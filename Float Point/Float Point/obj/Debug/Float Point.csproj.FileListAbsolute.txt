@@ -1,0 +1,6 @@
+C:\Users\Mohamed AADARI\Documents\Visual Studio 2015\Projects\TP Divers C#\Travaux Pratiques C#-3- Nommés\Float Point\Float Point\bin\Debug\Float Point.exe.config
+C:\Users\Mohamed AADARI\Documents\Visual Studio 2015\Projects\TP Divers C#\Travaux Pratiques C#-3- Nommés\Float Point\Float Point\bin\Debug\Float Point.exe
+C:\Users\Mohamed AADARI\Documents\Visual Studio 2015\Projects\TP Divers C#\Travaux Pratiques C#-3- Nommés\Float Point\Float Point\bin\Debug\Float Point.pdb
+C:\Users\Mohamed AADARI\Documents\Visual Studio 2015\Projects\TP Divers C#\Travaux Pratiques C#-3- Nommés\Float Point\Float Point\obj\Debug\Float Point.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed AADARI\Documents\Visual Studio 2015\Projects\TP Divers C#\Travaux Pratiques C#-3- Nommés\Float Point\Float Point\obj\Debug\Float Point.exe
+C:\Users\Mohamed AADARI\Documents\Visual Studio 2015\Projects\TP Divers C#\Travaux Pratiques C#-3- Nommés\Float Point\Float Point\obj\Debug\Float Point.pdb

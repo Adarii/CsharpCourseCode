@@ -1,1 +1,2 @@
 C:\Users\Mohamed AADARI\Documents\Visual Studio 2015\Projects\CsharpGitHub\Strings\Strings\bin\Debug\Strings.exe.config
+D:\GitHub Local Repository\CsharpCourseCode\Strings\Strings\bin\Debug\Strings.exe.config
