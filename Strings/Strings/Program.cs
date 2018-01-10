@@ -11,9 +11,7 @@ namespace Strings
         static void Main(string[] args)
         {
 
-
-
-            string mySentence = "Please go to a new  \n  line?";
+            //string mySentence = "Please go to a new  \n  line?";
 
             //string mySentence = "My  \"pretty wife\";
 
@@ -27,20 +25,22 @@ namespace Strings
 
 
             //------------------------------------
-            /*
+           
               
                string mySentence = "";
                for (int i = 0; i < 50 ; i++)                                                                                        
                  {                                                                                      
                     // mySentence = mySentence+ "--" +i.ToString();
-                        mySentence += "--" + i.ToString(); 
+                        mySentence += "- " + i.ToString(); 
                   } 
                                                                                                         
-              */
+       
 
 
             //------------------------------------
 
+                           
+          
                        
 
 
